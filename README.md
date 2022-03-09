@@ -1,5 +1,4 @@
 # Holi 👋, soy Isis 
-[<iframe src="https://giphy.com/embed/xUA7b2s0LQTwbou3Kw" width="17" height="40" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>](https://github.com/https://github.com/Isisag) 
 ## Junior Front-end Developer 
 ![](https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif)
 
