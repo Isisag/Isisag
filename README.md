@@ -6,7 +6,7 @@ Habilidades: / *HTML* / *CSS* / *JAVASCRIPT* / *REACT JS* / *FIREBASE*
 
 <hr>
 
-- 🔭 Estoy trabajando en ![Social Network](https://isisag.github.io/SCL019-social-network)
+- 🔭 Estoy trabajando en [Social Network](https://isisag.github.io/SCL019-social-network)
 - 🌱 Estoy aprendiendo REACT JS  
 - 📫 Contacto: 📧 isisdanielaaguilar@gmail.com 
 - ⚡ Dato curioso: Enamorada del reino Funji <3  
