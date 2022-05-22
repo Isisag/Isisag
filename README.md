@@ -25,12 +25,10 @@ Jugadora compulsiva de **Minecraft** y Fan de **Hora de aventura** ❤️
 
 <img align='left' src="https://media.giphy.com/media/1YfwX64Raq0R6bRqrQ/giphy.gif" width="410">
 
-[<img src='https://api.iconify.design/akar-icons/github-fill.svg' alt='github' height='20'>](https://github.com/https://github.com/Isisag) 
+[<img src='https://api.iconify.design/akar-icons/github-fill.svg' alt='github' height='20'>](https://github.com/Isisag) 
 Github  
 
-[<img src='https://api.iconify.design/logos/linkedin-icon.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/https://github.com/Isisag/) LinkedIn
+[<img src='https://api.iconify.design/logos/linkedin-icon.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/isis-aguilar/) LinkedIn
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='20'>](https://codepen.io/https://codepen.io/isisag) 
-Codepen 
 
 
