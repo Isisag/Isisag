@@ -1,5 +1,4 @@
-# Holi! Soy Isis <img  src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="40">
-## Software Developer Egresada de [Laboratoria](https://www.laboratoria.la)
+## Software Developer Egresada de [Laboratoria](https://www.laboratoria.la) <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="40">
 
 Me encanta el código declarativo, ***keep it simple*** ✨ <br>
 *Eat, Sleep, Code, Repeat* 🔄 <br>
